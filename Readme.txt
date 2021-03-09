@@ -1,6 +1,1 @@
-hello all
-welcome to Git Training 
-
-git
-github
-jenkins
+deleted the data
